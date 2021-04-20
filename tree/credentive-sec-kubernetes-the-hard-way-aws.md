@@ -8,20 +8,20 @@ The intent of this page is similar to the original guide. My motivation to compi
 
 ### Labs
 
-* [Prerequisites]()
-* [Installing the Client Tools]()
-* [Provisioning Compute Resources]()
-* [Provisioning a CA and Generating TLS Certificates]()
-* [Generating Kubernetes Authentication Files for Authentication]()
-* [Generating the Data Encryption Config and Key]()
-* [Bootstrapping the etcd Cluster]()
-* [Bootstrapping the Kubernetes Control Plane]()
-* [Bootstrapping the Kubernetes Worker Nodes]()
-* [Configuring kubectl for Remote Access]()
-* [Provisioning Pod Network Routes]()
-* [Deploying the DNS Cluster Add-on]()
-* [Smoke Test]()
-* [Cleaning Up]()
+* [Prerequisites](credentive-sec-kubernetes-the-hard-way-aws.md#prerequisites)
+* [Installing the Client Tools](credentive-sec-kubernetes-the-hard-way-aws.md#installing-the-client-tools)
+* [Provisioning Compute Resources](credentive-sec-kubernetes-the-hard-way-aws.md#provisioning-compute-resources)
+* [Provisioning a CA and Generating TLS Certificates](credentive-sec-kubernetes-the-hard-way-aws.md#provisioning-a-ca-and-generating-tls-certificates)
+* [Generating Kubernetes Authentication Files for Authentication](credentive-sec-kubernetes-the-hard-way-aws.md#generating-kubernetes-authentication-files-for-authentication)
+* [Generating the Data Encryption Config and Key](credentive-sec-kubernetes-the-hard-way-aws.md#generating-the-data-encryption-config-and-key)
+* [Bootstrapping the etcd Cluster](credentive-sec-kubernetes-the-hard-way-aws.md#bootstrapping-the-etcd-cluster)
+* [Bootstrapping the Kubernetes Control Plane](credentive-sec-kubernetes-the-hard-way-aws.md#bootstrapping-the-kubernetes-control-plane)
+* [Bootstrapping the Kubernetes Worker Nodes](credentive-sec-kubernetes-the-hard-way-aws.md#bootstrapping-the-kubernetes-worker-nodes)
+* [Configuring kubectl for Remote Access](credentive-sec-kubernetes-the-hard-way-aws.md#configuring-kubectl-for-remote-access)
+* [Provisioning Pod Network Routes](credentive-sec-kubernetes-the-hard-way-aws.md#provisioning-pod-network-routes)
+* [Deploying the DNS Cluster Add-on](credentive-sec-kubernetes-the-hard-way-aws.md#deploying-the-dns-cluster-add-on)
+* [Smoke Test](credentive-sec-kubernetes-the-hard-way-aws.md#smoke-test)
+* [Cleaning Up](credentive-sec-kubernetes-the-hard-way-aws.md#cleaning-up)
 
 ## Prerequisites
 
@@ -834,7 +834,7 @@ EOF
 
 ### The Kubernetes Frontend Load Balancer
 
-Nothing to do - already setup in [previous section]()
+Nothing to do - already setup in [previous section](credentive-sec-kubernetes-the-hard-way-aws.md#kubernetes-public-address)
 
 ## Bootstrapping the Kubernetes Worker Nodes
 
