@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [Untitled](introduction/untitled.md)
+* [Why do it the Hard Way?](introduction/untitled.md)
 
 ## Prerequisites
 
