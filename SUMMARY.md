@@ -1,18 +1,23 @@
 # Table of contents
 
-* [Credentive-Sec/kubernetes-the-hard-way-aws](README.md)
+* [Kubernetes the Hard Way, AWS](README.md)
 
 ## Introduction
 
 * [Why do it the Hard Way?](introduction/untitled.md)
+* [Assumptions about this guide](introduction/assumptions-about-this-guide.md)
+* [What you will end up with](introduction/what-you-will-end-up-with.md)
 
 ## Prerequisites
 
-* [Untitled](prerequisites/untitled.md)
+* [Installing AWS Client Tools](prerequisites/untitled.md)
+* [Installing cfssl and cfssljson](prerequisites/installing-cfssl-and-cfssljson.md)
+* [Installing kubectl](prerequisites/installing-kubectl.md)
 
 ## Provisioning the Resources
 
-* [Untitled](provisioning-the-resources/untitled.md)
+* [Provision Networks and Firewalls](provisioning-the-resources/provision-networks-and-firewalls.md)
+* [Provision EC2 Instances](provisioning-the-resources/provision-ec2-instances.md)
 
 ## Building Kubernetes
 

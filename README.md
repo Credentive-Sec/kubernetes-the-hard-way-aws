@@ -1,4 +1,4 @@
-# Credentive-Sec/kubernetes-the-hard-way-aws
+# Kubernetes the Hard Way, AWS
 
 ## Kubernetes The Hard Way - AWS
 
