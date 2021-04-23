@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kubernetes the Hard Way, AWS](README.md)
+* [Kubernetes the Hard Way - AWS Edition](README.md)
 
 ## Introduction
 

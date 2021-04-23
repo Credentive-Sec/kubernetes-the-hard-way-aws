@@ -1,4 +1,4 @@
-# Kubernetes the Hard Way, AWS
+# Kubernetes the Hard Way - AWS Edition
 
 ## Kubernetes The Hard Way - AWS
 
