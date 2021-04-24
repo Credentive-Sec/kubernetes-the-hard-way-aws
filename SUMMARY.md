@@ -13,6 +13,7 @@
 * [Installing AWS Client Tools](prerequisites/untitled.md)
 * [Installing cfssl and cfssljson](prerequisites/installing-cfssl-and-cfssljson.md)
 * [Installing kubectl](prerequisites/installing-kubectl.md)
+* [Optional Tools](prerequisites/optional-tools.md)
 
 ## Provisioning the Resources
 
